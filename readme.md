@@ -12,6 +12,8 @@ Send photos to an e-mail address on your AppEngine instance
 
 * The resulting map can be viewed on AppEngine, embedded using Google Maps, and downloaded to Google Earth.
 
+<img src="http://i.imgur.com/lo8cQRA.png"/>
+
 ## The Origin Story
 
 In February 2010, a dusting of snow in Florida and the upper slopes of the big island of
